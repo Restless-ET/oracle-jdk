@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    ".DS_Store": true,
+    ".AppleDouble": true,
+    ".LSOverride": true,
+    "Icon": true,
+    "._*": true,
+    ".Spotlight-V100": true,
+    ".Trashes": true,
+    ".history": true,
+    ".ansible": true,
+    ".bash_history": true
+  },
+  "search.exclude": {
+    ".DS_Store": true,
+    ".AppleDouble": true,
+    ".LSOverride": true,
+    "Icon": true,
+    "._*": true,
+    ".Spotlight-V100": true,
+    ".Trashes": true,
+    ".history": true,
+    ".ansible": true,
+    ".bash_history": true
+  }
+}
